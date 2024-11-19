@@ -1,4 +1,4 @@
-# QA_SXM_tools
+# QA_tools
 The porpoise of this repository is to help QA team with regular execution by saving some time with python scripts to setup the device
 for different scenarios
 
